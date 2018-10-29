@@ -1,3 +1,5 @@
+package com.allegiant;
+
 import java.util.List;
 
 /**

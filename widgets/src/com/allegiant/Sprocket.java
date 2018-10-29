@@ -1,3 +1,5 @@
+package com.allegiant;
+
 import java.io.Serializable;
 
 public class Sprocket implements Serializable  {
