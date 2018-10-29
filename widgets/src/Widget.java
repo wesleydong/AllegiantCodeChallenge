@@ -44,7 +44,7 @@ public class Widget implements Serializable {
 
 
     public void addSprocket(Sprocket sprocket) {
-
+        sprockets.add(sprocket);
     }
     public void setSprockets(List<Sprocket> sprockets) {
         this.sprockets = sprockets;
